@@ -1,0 +1,13 @@
+{
+  "name": "ninetales",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "3.4.1",
+    "node-env-file": "0.1.8",
+    "pokemon-go-node-api": "1.4.0"
+  }
+}
